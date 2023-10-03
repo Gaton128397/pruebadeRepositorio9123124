@@ -7,11 +7,9 @@ def prueba():
 prueba()
 
 def rellenar_matriz(matriz, variable1, variable2):
-    for i in range(matriz):
-        for j in range(matriz):
-            matriz[i][j] = variable1 + variable2
+    matriz.append(variable1)
+    matriz.append(variable2)
+    print(matriz)[1]
     return matriz
-matriz = []
-matriz = rellenar_matriz(matriz, 5, 2)
 
 print(matriz)
