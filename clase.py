@@ -4,6 +4,7 @@ variable1 = 91283
 def prueba():
     print("ss")
     print("hola")
+    print("s")
 
 prueba()
 
