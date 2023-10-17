@@ -16,4 +16,7 @@ def rellenar_matriz(matriz, variable1, variable2):
 
 print(matriz)
 
+for i in range(0,10):
+    print("yanko mi patron")
+
 Moni = 12314
