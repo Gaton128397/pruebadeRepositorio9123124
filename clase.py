@@ -15,3 +15,6 @@ def rellenar_matriz(matriz, variable1, variable2):
     return matriz
 
 print(matriz)
+
+for i in range(0,10):
+    print("yanko mi patron")
